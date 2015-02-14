@@ -1,0 +1,12 @@
+{
+    "name": "mongodb-to-elasticsearch",
+    "version": "1.0.0",
+    "description": "a tool help you import data from mongodb to elasticsearch.",
+    "author": "keenwon",
+    "license": "ISC",
+    "dependencies": {
+        "mongoose": "^3.8.17",
+        "elasticsearch": "^2.4.3",
+        "moment": "^2.8.3"
+    }
+}
