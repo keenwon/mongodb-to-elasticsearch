@@ -1,5 +1,5 @@
-var mongodbHost = '162.243.150.98',
-    mongodbPort = 27017,
+var mongodbHost = '<mongodb地址>',
+    mongodbPort = 27017, // mongodb端口号
     mongodbDatabase = '<Database>',
     mongodbUserName = '<用户名>',
     mongodbPassword = '<密码>';
