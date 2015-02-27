@@ -2,7 +2,14 @@
     "name": "mongodb-to-elasticsearch",
     "version": "1.0.0",
     "description": "a tool help you import data from mongodb to elasticsearch.",
-    "author": "keenwon",
+    "author": {
+        "name": "keenwon",
+        "email": "semanwmj@yeah.net"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/keenwon/mongodb-to-elasticsearch.git"
+    },
     "license": "ISC",
     "dependencies": {
         "mongoose": "^3.8.17",
