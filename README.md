@@ -1,6 +1,6 @@
 #mongodb to elasticsearch#
 
-http://findit.so 用到的一个小工具，用来将数据从mongodb导入到elasticsearch  
+http://findit.keenwon.com 用到的一个小工具，用来将数据从mongodb导入到elasticsearch  
 
 ###使用方法
 * 安装依赖包`npm install`
